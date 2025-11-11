@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: tienda-demo
-        image: edudaniel15/tienda-demo:latest
+        image: guerrero11dan/tienda-demo:latest
         ports:
         - containerPort: 3000
         env:
