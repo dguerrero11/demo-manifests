@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/edudaniel15/demo-manifests.git
+    repoURL: https://github.com/dguerrero11/demo-manifests.git
     targetRevision: HEAD
     path: k8s/
   destination:
