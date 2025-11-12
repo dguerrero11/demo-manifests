@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: tienda-demo
-        image: docker.io/guerrero11dan/tienda-demo:348f159
+        image: docker.io/guerrero11dan/tienda-demo:c3d6e93
         ports:
         - containerPort: 3000
         env:
